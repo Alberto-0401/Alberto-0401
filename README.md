@@ -1,10 +1,8 @@
-# 👋 ¡Hola! Soy Alberto Pérez Oncina
+# Alberto Pérez Oncina
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3F8FFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Desarrollador+Full+Stack+Junior;Estudiante+de+DAM+%7C+Futuro+Ingeniero)](https://git.io/typing-svg)
-
-### 🇪🇸 Granada, España
+**Desarrollador Full Stack Junior | Estudiante 2º DAM | Granada, España**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-perez-oncina-18099b357/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aperezoncina@gmail.com)
@@ -14,28 +12,15 @@
 
 ---
 
-## 🚀 Sobre mí
+## Perfil Profesional
 
-```javascript
-const alberto = {
-    ubicacion: "Granada, España",
-    educacion: "2º DAM - Desarrollo de Aplicaciones Multiplataforma",
-    background: "Bachillerato de Ciencias",
-    proximoPaso: "Ingeniería Informática 🎓",
-    rol: "Desarrollador Full Stack Junior",
-    intereses: ["Backend Development", "Mobile Apps", "Gestión Deportiva"],
-    aprendiendo: ["Spring Boot", "React Native", "TypeScript"],
-    frase: "El código es la mejor forma de resolver problemas reales"
-};
-```
+Estudiante de **Desarrollo de Aplicaciones Multiplataforma** especializado en soluciones full stack (backend, frontend, móvil). Formación técnica en desarrollo de software con enfoque en arquitecturas modernas y buenas prácticas de programación. Actualmente desarrollando **Scouteo**, una plataforma integral de gestión deportiva con arquitectura distribuida.
 
-🎯 **Estudiante apasionado por la tecnología** con formación en **Desarrollo de Aplicaciones Multiplataforma**, especializado en crear soluciones completas (backend, frontend, móvil). Actualmente desarrollando **Scouteo**, una plataforma integral de gestión deportiva.
-
-🔭 Mi camino: **Bachillerato** → **DAM** → **Ingeniería Informática**
+**Trayectoria formativa:** Bachillerato de Ciencias → DAM → Ingeniería Informática
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 ### Lenguajes de Programación
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -49,12 +34,12 @@ const alberto = {
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
 
-### Bases de Datos & Backend
+### Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Herramientas & Otros
+### Herramientas & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -64,17 +49,17 @@ const alberto = {
 
 ---
 
-## 🎯 Proyecto Principal: Scouteo
+## Proyecto Principal: Scouteo
 
 ### Sistema Completo de Gestión Deportiva
 
-> Plataforma integral para la gestión de clubes deportivos, desarrollada con arquitectura full stack moderna.
+> Plataforma integral para la gestión de clubes deportivos con arquitectura full stack moderna y diseño escalable.
 
 <table>
 <tr>
 <td width="33%">
 
-### 📱 Scouteo Mobile
+### Scouteo Mobile
 **React Native + TypeScript**
 
 Aplicación móvil multiplataforma para entrenadores y jugadores.
@@ -86,12 +71,12 @@ Aplicación móvil multiplataforma para entrenadores y jugadores.
 - Seguimiento de asistencias
 - Dashboard personalizado
 
-[📂 Ver repositorio](https://github.com/Alberto-0401/Scouteo-Mobile)
+[Ver repositorio](https://github.com/Alberto-0401/Scouteo-Mobile)
 
 </td>
 <td width="33%">
 
-### 🔧 Scouteo API
+### Scouteo API
 **Spring Boot + Java + MySQL**
 
 API REST robusta y escalable para el backend del sistema.
@@ -103,12 +88,12 @@ API REST robusta y escalable para el backend del sistema.
 - Endpoints de estadísticas
 - Integración con base de datos
 
-[📂 Ver repositorio](https://github.com/Alberto-0401/Scouteo-API)
+[Ver repositorio](https://github.com/Alberto-0401/Scouteo-API)
 
 </td>
 <td width="33%">
 
-### 🖥️ Scouteo Desktop
+### Scouteo Desktop
 **JavaFX + MySQL**
 
 Aplicación de escritorio para gestión avanzada del club.
@@ -120,7 +105,7 @@ Aplicación de escritorio para gestión avanzada del club.
 - Dashboard de estadísticas
 - Configuración del club
 
-[📂 Ver repositorio](https://github.com/Alberto-0401/Scouteo_inicios)
+[Ver repositorio](https://github.com/Alberto-0401/Scouteo_inicios)
 
 </td>
 </tr>
@@ -130,36 +115,36 @@ Aplicación de escritorio para gestión avanzada del club.
 
 ---
 
-## 📚 Formación Académica
+## Formación Académica
 
-### 🎓 Educación
+### Educación
 
 | Periodo | Titulación | Centro | Estado |
 |---------|-----------|---------|---------|
-| 2024-2026 | **Técnico Superior en DAM** | IES Hermenegildo Lanz, Granada | 🔄 Cursando 2º |
-| 2022-2024 | **Bachillerato de Ciencias** | — | ✅ Completado |
-| 2026+ | **Ingeniería Informática** | Universidad (Próximo) | 🎯 Planificado |
+| 2024-2026 | **Técnico Superior en DAM** | IES Hermenegildo Lanz, Granada | Cursando 2º |
+| 2022-2024 | **Bachillerato de Ciencias** | Granada | Completado |
+| 2026+ | **Ingeniería Informática** | Universidad | Planificado |
 
-### 📖 Módulos DAM (Destacados)
-- ✅ Programación (Java, POO)
-- ✅ Acceso a Datos (JDBC, Hibernate, JPA)
-- ✅ Desarrollo de Interfaces (JavaFX, Swing)
-- 🔄 Programación Multimedia y Dispositivos Móviles
-- 🔄 Programación de Servicios y Procesos
-- 🔄 Sistemas de Gestión Empresarial
+### Módulos DAM (Destacados)
+- Programación (Java, POO)
+- Acceso a Datos (JDBC, Hibernate, JPA)
+- Desarrollo de Interfaces (JavaFX, Swing)
+- Programación Multimedia y Dispositivos Móviles
+- Programación de Servicios y Procesos
+- Sistemas de Gestión Empresarial
 
 ---
 
-## 🌐 Idiomas
+## Competencias Lingüísticas
 
 | Idioma | Nivel |
 |--------|-------|
-| 🇪🇸 **Español** | Nativo |
-| 🇬🇧 **Inglés** | Intermedio (B1-B2) |
+| **Español** | Nativo |
+| **Inglés** | Intermedio (B1-B2) |
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <div align="center">
 
@@ -173,31 +158,31 @@ Aplicación de escritorio para gestión avanzada del club.
 
 ---
 
-## 🎯 Objetivos 2026
+## Objetivos Profesionales 2026
 
-- [ ] Finalizar 2º DAM con excelentes calificaciones
-- [ ] Ampliar Scouteo con nuevas funcionalidades
-- [ ] Contribuir a proyectos open source
-- [ ] Aprender Docker y Kubernetes en profundidad
-- [ ] Obtener certificación en Spring Boot
-- [ ] Comenzar Ingeniería Informática
+- Finalizar 2º DAM con excelentes calificaciones
+- Ampliar Scouteo con nuevas funcionalidades
+- Contribuir a proyectos open source
+- Profundizar conocimientos en Docker y Kubernetes
+- Obtener certificación en Spring Boot
+- Comenzar Ingeniería Informática
 
 ---
 
-## 💡 Filosofía de Desarrollo
+## Filosofía de Desarrollo
 
 > *"El mejor código es el que resuelve problemas reales de forma simple y elegante"*
 
-🔹 Enfoque en **código limpio** y **buenas prácticas**
-🔹 Aprendizaje continuo y **mejora constante**
-🔹 Desarrollo **centrado en el usuario**
-🔹 Documentación clara y **código mantenible**
+- Enfoque en código limpio y buenas prácticas
+- Aprendizaje continuo y mejora constante
+- Desarrollo centrado en el usuario
+- Documentación clara y código mantenible
 
 ---
 
 <div align="center">
 
-### 📫 ¿Hablamos?
+### Contacto Profesional
 
 **Abierto a colaboraciones, prácticas y proyectos interesantes**
 
@@ -207,9 +192,5 @@ Aplicación de escritorio para gestión avanzada del club.
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Alberto-0401&color=blueviolet&style=flat-square&label=Visitas+al+perfil)
-
-⭐️ **From [Alberto-0401](https://github.com/Alberto-0401)** | Made with 💻 and ☕
-
-<!-- Última actualización: 2026-03-26 -->
 
 </div>
