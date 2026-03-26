@@ -2,7 +2,7 @@
 
 # 👨‍💻 Alberto Pérez Oncina
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3F8FFF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Full+Stack+Developer;Backend+%7C+Frontend+%7C+Mobile;Building+the+future+with+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=2000&color=3F8FFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+%7C+Frontend+%7C+Mobile)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
@@ -43,13 +43,11 @@ Siempre aprendiendo, siempre mejorando
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## Tech Stack
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=3F8FFF&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot;JavaScript+%7C+TypeScript;React+Native+%7C+Node.js;MySQL+%7C+PostgreSQL+%7C+MongoDB;HTML5+%7C+CSS3;Docker+%7C+Git)](https://git.io/typing-svg)
 
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" />
 
@@ -210,22 +208,11 @@ En Curso:
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto-0401&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8FFF&text_color=ffffff" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alberto-0401&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3F8FFF&line=3F8FFF&point=ffffff" />
 
-### GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Alberto-0401&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-
-### Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alberto-0401/Alberto-0401/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alberto-0401/Alberto-0401/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Alberto-0401/Alberto-0401/output/github-contribution-grid-snake.svg">
-</picture>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Alberto-0401&color=3F8FFF&style=flat-square&label=Profile+Views)
-<img src="https://visitcount.itsvg.in/api?id=Alberto-0401&label=Visitors&color=3F8FFF&icon=5&pretty=true" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## Idiomas
 
