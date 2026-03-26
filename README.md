@@ -54,6 +54,8 @@ const alberto = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🚀 Frameworks & Librerías
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -205,50 +207,6 @@ En Curso:
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alberto-0401&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3F8FFF&line=3F8FFF&point=ffffff" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Alberto-0401&color=3F8FFF&style=flat-square&label=Profile+Views)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎯 Objetivos 2026
-
-<div align="center">
-
-| Objetivo | Estado |
-|:---------|:------:|
-| 🎓 Finalizar 2º DAM con excelentes calificaciones | 🔄 |
-| 🚀 Ampliar Scouteo con nuevas funcionalidades | 🔄 |
-| 💻 Contribuir a proyectos open source | 📝 |
-| 🐳 Dominar Docker y Kubernetes | 📚 |
-| ☕ Certificación en Spring Boot | 🎯 |
-| 🎓 Comenzar Ingeniería Informática | 📅 |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💭 Filosofía de Desarrollo
-
-<div align="center">
-
-```typescript
-interface Developer {
-    mindset: string;
-    principles: string[];
-    approach: string;
-}
-
-const myPhilosophy: Developer = {
-    mindset: "El mejor código es el que resuelve problemas reales",
-    principles: [
-        "💎 Código limpio y buenas prácticas",
-        "📈 Aprendizaje continuo y mejora constante",
-        "👥 Desarrollo centrado en el usuario",
-        "📖 Documentación clara y código mantenible"
-    ],
-    approach: "Simple, elegante y efectivo"
-};
-```
 
 </div>
 
