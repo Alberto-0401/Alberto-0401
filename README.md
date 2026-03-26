@@ -1,10 +1,10 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=45&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Alberto+P%C3%A9rez+Oncina" alt="Alberto Pérez Oncina" />
+# <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=45&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Alberto+P%C3%A9rez+Oncina" alt="Alberto Pérez Oncina" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=4000&pause=2000&color=8B8B8B&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+%7C+Frontend+%7C+Mobile)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=38&fontAlignY=35&animation=fadeIn&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,24,27&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=38&fontAlignY=35&animation=fadeIn&fontColor=fff" />
 
 <p style="font-family: 'Poppins', sans-serif; font-size: 16px; color: #A0A0A0;">
 <b>Granada, España</b> • Estudiante 2º DAM • Desarrollador Full Stack Junior
@@ -27,15 +27,15 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Experience-2%2B%20Years-6C63FF?style=for-the-badge&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/Experience-2%2B%20Years-FFD700?style=for-the-badge&labelColor=1a1a1a" />
 <br><sub><b>Coding</b></sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Projects-10%2B-667eea?style=for-the-badge&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/Projects-10%2B-DAA520?style=for-the-badge&labelColor=1a1a1a" />
 <br><sub><b>Completed</b></sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Technologies-15%2B-764ba2?style=for-the-badge&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/Technologies-15%2B-B8860B?style=for-the-badge&labelColor=1a1a1a" />
 <br><sub><b>Learned</b></sub>
 </td>
 <td align="center">
@@ -49,7 +49,7 @@
 
 <br>
 
-## <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&vCenter=true&width=200&lines=Sobre+m%C3%AD" />
+## <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FFD700&vCenter=true&width=200&lines=Sobre+m%C3%AD" />
 
 ```javascript
 const alberto = {
@@ -68,7 +68,7 @@ const alberto = {
 <div align="center">
 
 <p style="font-family: 'Poppins', sans-serif; font-size: 18px;">
-<b style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+<b style="background: linear-gradient(135deg, #FFD700 0%, #DAA520 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
 Desarrollador full stack especializado en arquitecturas modernas
 </b>
 </p>
@@ -81,19 +81,9 @@ Siempre aprendiendo, siempre mejorando
 
 </div>
 
-<br>
-
-<div align="center">
-
-### 💡 Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&animation=grow_out_in" />
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&vCenter=true&width=200&lines=Tech+Stack" />
+## <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FFD700&vCenter=true&width=200&lines=Tech+Stack" />
 
 <div align="center">
 
@@ -160,25 +150,25 @@ Siempre aprendiendo, siempre mejorando
 <td width="50%">
 
 **Backend Development**
-![](https://geps.dev/progress/85?dangerColor=6C63FF&warningColor=6C63FF&successColor=6C63FF)
+![](https://geps.dev/progress/85?dangerColor=FFD700&warningColor=FFD700&successColor=FFD700)
 
 **Mobile Development**
-![](https://geps.dev/progress/75?dangerColor=667eea&warningColor=667eea&successColor=667eea)
+![](https://geps.dev/progress/75?dangerColor=DAA520&warningColor=DAA520&successColor=DAA520)
 
 **Frontend Development**
-![](https://geps.dev/progress/70?dangerColor=764ba2&warningColor=764ba2&successColor=764ba2)
+![](https://geps.dev/progress/70?dangerColor=B8860B&warningColor=B8860B&successColor=B8860B)
 
 </td>
 <td width="50%">
 
 **Database Management**
-![](https://geps.dev/progress/80?dangerColor=6C63FF&warningColor=6C63FF&successColor=6C63FF)
+![](https://geps.dev/progress/80?dangerColor=FFD700&warningColor=FFD700&successColor=FFD700)
 
 **API Design**
-![](https://geps.dev/progress/80?dangerColor=667eea&warningColor=667eea&successColor=667eea)
+![](https://geps.dev/progress/80?dangerColor=DAA520&warningColor=DAA520&successColor=DAA520)
 
 **DevOps & Tools**
-![](https://geps.dev/progress/65?dangerColor=764ba2&warningColor=764ba2&successColor=764ba2)
+![](https://geps.dev/progress/65?dangerColor=B8860B&warningColor=B8860B&successColor=B8860B)
 
 </td>
 </tr>
@@ -188,19 +178,19 @@ Siempre aprendiendo, siempre mejorando
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&vCenter=true&width=450&lines=Proyecto+Destacado%3A+Scouteo" />
+## <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FFD700&vCenter=true&width=450&lines=Proyecto+Destacado%3A+Scouteo" />
 
 <div align="center">
 
 <a href="https://github.com/Alberto-0401">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alberto-0401&repo=Scouteo-API&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=667eea&text_color=A0A0A0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alberto-0401&repo=Scouteo-API&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=DAA520&text_color=A0A0A0" />
 </a>
 
 ### Sistema Integral de Gestión Deportiva
 
 [![Scouteo](https://img.shields.io/badge/Proyecto-Scouteo-success?style=for-the-badge&logo=github)](https://github.com/Alberto-0401)
-![Status](https://img.shields.io/badge/Status-In_Development-6C63FF?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Full_Stack-667eea?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In_Development-FFD700?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Full_Stack-DAA520?style=for-the-badge)
 
 **Plataforma completa para clubes deportivos con arquitectura full stack moderna**
 
@@ -288,7 +278,7 @@ App de escritorio para gestión avanzada
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&vCenter=true&width=350&lines=Formaci%C3%B3n+Acad%C3%A9mica" />
+## <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FFD700&vCenter=true&width=350&lines=Formaci%C3%B3n+Acad%C3%A9mica" />
 
 <div align="center">
 
@@ -301,7 +291,7 @@ App de escritorio para gestión avanzada
 *IES Hermenegildo Lanz*
 Granada
 
-![](https://img.shields.io/badge/Status-Cursando_2º-6C63FF?style=flat-square)
+![](https://img.shields.io/badge/Status-Cursando_2º-FFD700?style=flat-square)
 
 </td>
 <td align="center" width="33%">
@@ -321,7 +311,7 @@ Granada
 *Universidad*
 <br>
 
-![](https://img.shields.io/badge/Status-Planificado-667eea?style=flat-square)
+![](https://img.shields.io/badge/Status-Planificado-DAA520?style=flat-square)
 
 </td>
 </tr>
@@ -345,40 +335,30 @@ En Curso:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&vCenter=true&width=300&lines=GitHub+Stats" />
+## <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FFD700&vCenter=true&width=300&lines=GitHub+Stats" />
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Alberto-0401&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=667eea&text_color=A0A0A0&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alberto-0401&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=667eea&currStreakLabel=667eea&sideLabels=A0A0A0" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Alberto-0401&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=DAA520&text_color=A0A0A0&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alberto-0401&theme=tokyonight&hide_border=true&background=0D1117&ring=FFD700&fire=DAA520&currStreakLabel=DAA520&sideLabels=A0A0A0" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto-0401&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=A0A0A0&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alberto-0401&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=667eea&point=A0A0A0" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto-0401&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=A0A0A0&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alberto-0401&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD700&line=DAA520&point=A0A0A0" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Alberto-0401&color=6C63FF&style=flat-square&label=Profile+Views)
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=Alberto-0401&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+![Profile Views](https://komarev.com/ghpvc/?username=Alberto-0401&color=FFD700&style=flat-square&label=Profile+Views)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&vCenter=true&width=150&lines=Idiomas" />
+## <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FFD700&vCenter=true&width=150&lines=Idiomas" />
 
 <div align="center">
 
 | Idioma | Nivel | Progreso |
 |:-------|:------|:--------:|
-| **Español** | Nativo | ![](https://geps.dev/progress/100?dangerColor=6C63FF&warningColor=6C63FF&successColor=6C63FF) |
-| **Inglés** | Intermedio (B1-B2) | ![](https://geps.dev/progress/65?dangerColor=667eea&warningColor=667eea&successColor=667eea) |
+| **Español** | Nativo | ![](https://geps.dev/progress/100?dangerColor=FFD700&warningColor=FFD700&successColor=FFD700) |
+| **Inglés** | Intermedio (B1-B2) | ![](https://geps.dev/progress/65?dangerColor=DAA520&warningColor=DAA520&successColor=DAA520) |
 
 </div>
 
@@ -386,7 +366,7 @@ En Curso:
 
 <div align="center">
 
-## <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=300&lines=Conecta+Conmigo" />
+## <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=300&lines=Conecta+Conmigo" />
 
 <p style="font-family: 'Poppins', sans-serif; font-size: 16px; color: #A0A0A0;">
 Abierto a colaboraciones, prácticas y proyectos interesantes
@@ -396,15 +376,9 @@ Abierto a colaboraciones, prácticas y proyectos interesantes
 [![Email](https://img.shields.io/badge/Email-aperezoncina@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:aperezoncina@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Alberto--0401-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Alberto-0401)
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,24,27&height=120&section=footer" />
 
-### ☕ Support My Work
-
-<a href="https://www.buymeacoffee.com/alberto0401" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 163px !important;" ></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" />
-
-<p style="font-family: 'Poppins', sans-serif; font-size: 14px; color: #667eea;">
+<p style="font-family: 'Poppins', sans-serif; font-size: 14px; color: #DAA520;">
 <b>From <a href="https://github.com/Alberto-0401">Alberto-0401</a></b>
 </p>
 
