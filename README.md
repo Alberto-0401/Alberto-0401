@@ -18,6 +18,37 @@
 
 </div>
 
+<br>
+
+<div align="center">
+
+### 📊 Quick Stats
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Experience-2%2B%20Years-6C63FF?style=for-the-badge&labelColor=1a1a1a" />
+<br><sub><b>Coding</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Projects-10%2B-667eea?style=for-the-badge&labelColor=1a1a1a" />
+<br><sub><b>Completed</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Technologies-15%2B-764ba2?style=for-the-badge&labelColor=1a1a1a" />
+<br><sub><b>Learned</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Currently-Scouteo-success?style=for-the-badge&labelColor=1a1a1a" />
+<br><sub><b>Building</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
 ## <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&vCenter=true&width=200&lines=Sobre+m%C3%AD" />
 
 ```javascript
@@ -50,7 +81,17 @@ Siempre aprendiendo, siempre mejorando
 
 </div>
 
----
+<br>
+
+<div align="center">
+
+### 💡 Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&animation=grow_out_in" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&vCenter=true&width=200&lines=Tech+Stack" />
 
@@ -108,19 +149,64 @@ Siempre aprendiendo, siempre mejorando
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&vCenter=true&width=350&lines=Proyecto+Destacado%3A+Scouteo" />
+<br>
 
 <div align="center">
 
-### <p style="font-family: 'Poppins', sans-serif; color: #667eea;">Sistema Integral de Gestión Deportiva</p>
+### 📈 Skill Level
+
+<table>
+<tr>
+<td width="50%">
+
+**Backend Development**
+![](https://geps.dev/progress/85?dangerColor=6C63FF&warningColor=6C63FF&successColor=6C63FF)
+
+**Mobile Development**
+![](https://geps.dev/progress/75?dangerColor=667eea&warningColor=667eea&successColor=667eea)
+
+**Frontend Development**
+![](https://geps.dev/progress/70?dangerColor=764ba2&warningColor=764ba2&successColor=764ba2)
+
+</td>
+<td width="50%">
+
+**Database Management**
+![](https://geps.dev/progress/80?dangerColor=6C63FF&warningColor=6C63FF&successColor=6C63FF)
+
+**API Design**
+![](https://geps.dev/progress/80?dangerColor=667eea&warningColor=667eea&successColor=667eea)
+
+**DevOps & Tools**
+![](https://geps.dev/progress/65?dangerColor=764ba2&warningColor=764ba2&successColor=764ba2)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&vCenter=true&width=450&lines=Proyecto+Destacado%3A+Scouteo" />
+
+<div align="center">
+
+<a href="https://github.com/Alberto-0401">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alberto-0401&repo=Scouteo-API&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=667eea&text_color=A0A0A0" />
+</a>
+
+### Sistema Integral de Gestión Deportiva
 
 [![Scouteo](https://img.shields.io/badge/Proyecto-Scouteo-success?style=for-the-badge&logo=github)](https://github.com/Alberto-0401)
+![Status](https://img.shields.io/badge/Status-In_Development-6C63FF?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Full_Stack-667eea?style=for-the-badge)
 
 **Plataforma completa para clubes deportivos con arquitectura full stack moderna**
 
 </div>
+
+<br>
 
 <table>
 <tr>
@@ -206,11 +292,40 @@ App de escritorio para gestión avanzada
 
 <div align="center">
 
-| Periodo | Titulación | Centro | Estado |
-|:-------:|:-----------|:-------|:------:|
-| 2024-2026 | **Técnico Superior en DAM** | IES Hermenegildo Lanz, Granada | Cursando 2º |
-| 2022-2024 | **Bachillerato de Ciencias** | Granada | Completado |
-| 2026+ | **Ingeniería Informática** | Universidad | Planificado |
+<table>
+<tr>
+<td align="center" width="33%">
+
+**2024-2026**
+🎓 **Técnico Superior en DAM**
+*IES Hermenegildo Lanz*
+Granada
+
+![](https://img.shields.io/badge/Status-Cursando_2º-6C63FF?style=flat-square)
+
+</td>
+<td align="center" width="33%">
+
+**2022-2024**
+🎓 **Bachillerato de Ciencias**
+Granada
+<br>
+
+![](https://img.shields.io/badge/Status-Completado-success?style=flat-square)
+
+</td>
+<td align="center" width="33%">
+
+**2026+**
+🎓 **Ingeniería Informática**
+*Universidad*
+<br>
+
+![](https://img.shields.io/badge/Status-Planificado-667eea?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=350&lines=M%C3%B3dulos+DAM+Destacados" />
 
@@ -234,17 +349,27 @@ En Curso:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Alberto-0401&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=667eea&text_color=A0A0A0&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Alberto-0401&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=667eea&text_color=A0A0A0&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alberto-0401&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=667eea&currStreakLabel=667eea&sideLabels=A0A0A0" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto-0401&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=A0A0A0" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto-0401&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=A0A0A0&langs_count=8" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alberto-0401&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=667eea&point=A0A0A0" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Alberto-0401&color=6C63FF&style=flat-square&label=Profile+Views)
 
 </div>
 
----
+<br>
+
+<div align="center">
+
+### 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=Alberto-0401&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&vCenter=true&width=150&lines=Idiomas" />
 
@@ -270,6 +395,12 @@ Abierto a colaboraciones, prácticas y proyectos interesantes
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alberto_Pérez_Oncina-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/alberto-perez-oncina-18099b357/)
 [![Email](https://img.shields.io/badge/Email-aperezoncina@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:aperezoncina@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Alberto--0401-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Alberto-0401)
+
+<br>
+
+### ☕ Support My Work
+
+<a href="https://www.buymeacoffee.com/alberto0401" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 163px !important;" ></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" />
 
