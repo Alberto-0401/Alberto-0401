@@ -1,12 +1,14 @@
 <div align="center">
 
-# 👨‍💻 Alberto Pérez Oncina
+# <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=45&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Alberto+P%C3%A9rez+Oncina" alt="Alberto Pérez Oncina" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=2000&color=3F8FFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+%7C+Frontend+%7C+Mobile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=4000&pause=2000&color=8B8B8B&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+%7C+Frontend+%7C+Mobile)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=38&fontAlignY=35&animation=fadeIn&fontColor=fff" />
 
-### Granada, España | Estudiante 2º DAM | Desarrollador Full Stack Junior
+<p style="font-family: 'Poppins', sans-serif; font-size: 16px; color: #A0A0A0;">
+<b>Granada, España</b> • Estudiante 2º DAM • Desarrollador Full Stack Junior
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-perez-oncina-18099b357/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aperezoncina@gmail.com)
@@ -16,7 +18,7 @@
 
 </div>
 
-## Sobre mí
+## <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&vCenter=true&width=200&lines=Sobre+m%C3%AD" />
 
 ```javascript
 const alberto = {
@@ -34,7 +36,12 @@ const alberto = {
 
 <div align="center">
 
-### Desarrollador full stack especializado en arquitecturas modernas
+<p style="font-family: 'Poppins', sans-serif; font-size: 18px;">
+<b style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+Desarrollador full stack especializado en arquitecturas modernas
+</b>
+</p>
+
 **Backend • Frontend • Mobile Development**
 
 Creando soluciones completas end-to-end
@@ -45,13 +52,16 @@ Siempre aprendiendo, siempre mejorando
 
 ---
 
-## Tech Stack
+## <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&vCenter=true&width=200&lines=Tech+Stack" />
 
 <div align="center">
 
-<img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" /> <img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" />
+<table>
+<tr>
+<td align="center" width="50%">
 
-### Lenguajes
+### <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=300&lines=Lenguajes" />
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -59,18 +69,32 @@ Siempre aprendiendo, siempre mejorando
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Librerías
+</td>
+<td align="center" width="50%">
+
+### <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=300&lines=Frameworks" />
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
 
-### Bases de Datos
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=300&lines=Bases+de+Datos" />
+
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools & DevOps
+</td>
+<td align="center" width="50%">
+
+### <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=300&lines=Tools+%26+DevOps" />
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -78,15 +102,20 @@ Siempre aprendiendo, siempre mejorando
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+</td>
+</tr>
+</table>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Proyecto Destacado: Scouteo
+## <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&vCenter=true&width=350&lines=Proyecto+Destacado%3A+Scouteo" />
 
 <div align="center">
 
-### Sistema Integral de Gestión Deportiva
+### <p style="font-family: 'Poppins', sans-serif; color: #667eea;">Sistema Integral de Gestión Deportiva</p>
+
 [![Scouteo](https://img.shields.io/badge/Proyecto-Scouteo-success?style=for-the-badge&logo=github)](https://github.com/Alberto-0401)
 
 **Plataforma completa para clubes deportivos con arquitectura full stack moderna**
@@ -97,7 +126,8 @@ Siempre aprendiendo, siempre mejorando
 <tr>
 <td width="33%" align="center">
 
-### Scouteo Mobile
+### <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=250&lines=Scouteo+Mobile" />
+
 **React Native + TypeScript**
 
 <img src="https://img.shields.io/badge/Platform-iOS%20%7C%20Android-blue?style=flat-square" />
@@ -116,7 +146,8 @@ Aplicación móvil multiplataforma para entrenadores y jugadores
 </td>
 <td width="33%" align="center">
 
-### Scouteo API
+### <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=250&lines=Scouteo+API" />
+
 **Spring Boot + MySQL**
 
 <img src="https://img.shields.io/badge/API-RESTful-green?style=flat-square" />
@@ -135,7 +166,8 @@ Backend robusto y escalable con arquitectura en capas
 </td>
 <td width="33%" align="center">
 
-### Scouteo Desktop
+### <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=250&lines=Scouteo+Desktop" />
+
 **JavaFX + MySQL**
 
 <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Linux-red?style=flat-square" />
@@ -170,7 +202,7 @@ App de escritorio para gestión avanzada
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Formación Académica
+## <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&vCenter=true&width=350&lines=Formaci%C3%B3n+Acad%C3%A9mica" />
 
 <div align="center">
 
@@ -180,7 +212,7 @@ App de escritorio para gestión avanzada
 | 2022-2024 | **Bachillerato de Ciencias** | Granada | Completado |
 | 2026+ | **Ingeniería Informática** | Universidad | Planificado |
 
-### Módulos DAM Destacados
+### <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=350&lines=M%C3%B3dulos+DAM+Destacados" />
 
 ```yaml
 Completados:
@@ -198,30 +230,30 @@ En Curso:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## GitHub Stats & Activity
+## <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&vCenter=true&width=300&lines=GitHub+Stats" />
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Alberto-0401&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8FFF&icon_color=3F8FFF&text_color=ffffff&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alberto-0401&theme=tokyonight&hide_border=true&background=0D1117&ring=3F8FFF&fire=3F8FFF&currStreakLabel=3F8FFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Alberto-0401&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=667eea&text_color=A0A0A0&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alberto-0401&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=667eea&currStreakLabel=667eea&sideLabels=A0A0A0" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto-0401&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8FFF&text_color=ffffff" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alberto-0401&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3F8FFF&line=3F8FFF&point=ffffff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto-0401&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=A0A0A0" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alberto-0401&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=667eea&point=A0A0A0" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Alberto-0401&color=3F8FFF&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Alberto-0401&color=6C63FF&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-## Idiomas
+## <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&vCenter=true&width=150&lines=Idiomas" />
 
 <div align="center">
 
 | Idioma | Nivel | Progreso |
 |:-------|:------|:--------:|
-| **Español** | Nativo | ![](https://geps.dev/progress/100) |
-| **Inglés** | Intermedio (B1-B2) | ![](https://geps.dev/progress/65) |
+| **Español** | Nativo | ![](https://geps.dev/progress/100?dangerColor=6C63FF&warningColor=6C63FF&successColor=6C63FF) |
+| **Inglés** | Intermedio (B1-B2) | ![](https://geps.dev/progress/65?dangerColor=667eea&warningColor=667eea&successColor=667eea) |
 
 </div>
 
@@ -229,16 +261,20 @@ En Curso:
 
 <div align="center">
 
-## Conecta Conmigo
+## <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=300&lines=Conecta+Conmigo" />
 
-**Abierto a colaboraciones, prácticas y proyectos interesantes**
+<p style="font-family: 'Poppins', sans-serif; font-size: 16px; color: #A0A0A0;">
+Abierto a colaboraciones, prácticas y proyectos interesantes
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alberto_Pérez_Oncina-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/alberto-perez-oncina-18099b357/)
 [![Email](https://img.shields.io/badge/Email-aperezoncina@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:aperezoncina@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Alberto--0401-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Alberto-0401)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" />
 
-**From [Alberto-0401](https://github.com/Alberto-0401)**
+<p style="font-family: 'Poppins', sans-serif; font-size: 14px; color: #667eea;">
+<b>From <a href="https://github.com/Alberto-0401">Alberto-0401</a></b>
+</p>
 
 </div>
